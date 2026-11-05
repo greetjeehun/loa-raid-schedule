@@ -2,7 +2,7 @@
 window.RAID_CONFIG = {
   // 공대원 입력 공유: 구글 Apps Script 웹 앱 주소 (https://script.google.com/macros/s/…/exec)
   // 비워 두면 '로컬 모드' — 입력한 시간이 각자 브라우저에만 저장돼요.
-  teamSyncUrl: "",
+  teamSyncUrl: "https://script.google.com/macros/s/AKfycbzFzxevOC9wJg5aO_ZPwJ0QQjQUXuE4WvR_TQJQZg4Gp_-2u1oQNP9RpdQ7OX3mV_ZfXQ/exec",
 
   // 일정 만들 때 고르는 레이드 목록 (위에서부터 보여요). levels = 난이도 버튼
   // 새 레이드가 나오면 한 줄 추가, 끝난 레이드는 그 줄을 지우면 돼요.
